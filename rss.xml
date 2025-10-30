@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wikilidia Latest Posts</title>
+    <link>https://www.wikilidia.com/</link>
+    <description>آخر المقالات على Wikilidia</description>
+    <language>ar</language>
+    <item>
+      <title>مثال مقال 1</title>
+      <link>https://www.wikilidia.com/post1</link>
+      <pubDate>Thu, 30 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>مثال مقال 2</title>
+      <link>https://www.wikilidia.com/post2</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
